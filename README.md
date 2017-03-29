@@ -1,6 +1,6 @@
 # ft_ls
 
-** Reproduction of binary _ls_**
+##### Reproduction of binary _ls_
 
 ### Usage:
 > ls [-Rafhlrst] [--all --human-readable --recursive --reverse] [file ...]
